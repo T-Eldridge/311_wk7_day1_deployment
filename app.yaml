@@ -1,4 +1,8 @@
 runtime: nodejs10
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: scenic-aileron-287414:us-central1:first-instance
+  HOST: 35.239.63.49
+  USER: root
+  PASSWORD: Dr3thl!x
+  DATABASE: admin
